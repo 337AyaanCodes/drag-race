@@ -1,0 +1,10 @@
+{
+  "name": "Drag Race Arena",
+  "short_name": "Drag Race",
+  "description": "Offline drag racing game with garage and upgrades",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#ff2d55",
+  "orientation": "any"
+}
